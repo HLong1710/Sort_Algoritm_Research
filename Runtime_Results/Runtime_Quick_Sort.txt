@@ -1,0 +1,10 @@
+Time taken by function Data_Input_Array_1.txt: 207771 microseconds
+Time taken by function Data_Input_Array_2.txt: 477744 microseconds
+Time taken by function Data_Input_Array_3.txt: 288359 microseconds
+Time taken by function Data_Input_Array_4.txt: 300545 microseconds
+Time taken by function Data_Input_Array_5.txt: 295958 microseconds
+Time taken by function Data_Input_Array_6.txt: 288937 microseconds
+Time taken by function Data_Input_Array_7.txt: 298783 microseconds
+Time taken by function Data_Input_Array_8.txt: 295344 microseconds
+Time taken by function Data_Input_Array_9.txt: 313866 microseconds
+Time taken by function Data_Input_Array_10.txt: 306430 microseconds
